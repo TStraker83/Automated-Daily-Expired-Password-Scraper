@@ -98,4 +98,4 @@ Open PasswordChangeReport
 <p><img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/b50b359e-23f2-45f0-8b03-e9aff73ead9a" />
 </p>
 
-Observe thh PasswordChangeReport
+- Observe the PasswordChangeReport
