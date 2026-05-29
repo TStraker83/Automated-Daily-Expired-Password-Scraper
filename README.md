@@ -87,14 +87,15 @@ Click OK
 <p><img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/0b80fe14-ee63-4e3d-ad18-a5e9dbf04919" />
 </p>
 
-<h2>Step 3 - Check Report</h2>
+<h2>Step 3 - Check PasswordChangeReport</h2>
 
-Open File Explore:
-
-- Go to C:
+Open File Explorer:
 
 - This PC → Windows C:
 
 Open PasswordChangeReport
 
-- Observe when the report was last updated
+<p><img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/b50b359e-23f2-45f0-8b03-e9aff73ead9a" />
+</p>
+
+Observe thh PasswordChangeReport
