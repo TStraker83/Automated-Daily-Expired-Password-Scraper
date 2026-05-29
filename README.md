@@ -23,7 +23,7 @@ In Taskbar:
 
 In Notepad:
 
-- Copy and paste this SCRIPT in it.
+- Copy and paste this [SCRIPT](https://github.com/TStraker83/Automated-Daily-Expired-Password-Scraper-Script/blob/main/DailyPasswordCheck.ps1) in it.
 
 Save this script as DailyPasswordCheck.ps1
 
