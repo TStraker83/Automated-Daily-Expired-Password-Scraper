@@ -13,7 +13,7 @@ Go to:
 <p><img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/3f04f0dc-fe56-443c-82d4-15a631989706" />
 </p>
 
-<h2>STep 2 - Create Script File</h2>
+<h2>Step 2 - Create Script File</h2>
 
 Open Notepad:
 
